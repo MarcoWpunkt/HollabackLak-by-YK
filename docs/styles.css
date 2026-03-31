@@ -48,5 +48,6 @@ body {
     margin: 5px;
     font-size: 15px;
     color: #000000;
-    font-family: 'Arial', sans-serif;
+    /* font-family: 'Arial', sans-serif; */
+    font-family: 'Comic Sans MS', normal;
   }
